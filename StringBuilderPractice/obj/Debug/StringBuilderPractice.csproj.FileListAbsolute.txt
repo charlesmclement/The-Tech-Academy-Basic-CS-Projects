@@ -1,0 +1,6 @@
+C:\Users\Chad\Google Drive\School_files\C#\StringBuilderPractice\StringBuilderPractice\bin\Debug\StringBuilderPractice.exe.config
+C:\Users\Chad\Google Drive\School_files\C#\StringBuilderPractice\StringBuilderPractice\bin\Debug\StringBuilderPractice.exe
+C:\Users\Chad\Google Drive\School_files\C#\StringBuilderPractice\StringBuilderPractice\bin\Debug\StringBuilderPractice.pdb
+C:\Users\Chad\Google Drive\School_files\C#\StringBuilderPractice\StringBuilderPractice\obj\Debug\StringBuilderPractice.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Google Drive\School_files\C#\StringBuilderPractice\StringBuilderPractice\obj\Debug\StringBuilderPractice.exe
+C:\Users\Chad\Google Drive\School_files\C#\StringBuilderPractice\StringBuilderPractice\obj\Debug\StringBuilderPractice.pdb
