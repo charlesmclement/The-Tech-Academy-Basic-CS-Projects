@@ -1,0 +1,6 @@
+C:\Users\Gabey\Google Drive\School_files\C#\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Gabey\Google Drive\School_files\C#\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Gabey\Google Drive\School_files\C#\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Gabey\Google Drive\School_files\C#\calculator\calculator\obj\Debug\calculator.pdb
