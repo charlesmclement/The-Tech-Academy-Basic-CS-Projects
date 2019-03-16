@@ -1,0 +1,15 @@
+C:\Users\Gabey\Google Drive\School_files\C#\multiply\multiply\bin\Debug\multiply.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\multiply\multiply\bin\Debug\multiply.exe
+C:\Users\Gabey\Google Drive\School_files\C#\multiply\multiply\bin\Debug\multiply.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\multiply\multiply\obj\Debug\multiply.exe
+C:\Users\Gabey\Google Drive\School_files\C#\multiply\multiply\obj\Debug\multiply.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\numberpass\bin\Debug\multiply.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\numberpass\obj\Debug\multiply.exe
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\numberpass\obj\Debug\multiply.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\numberpass\bin\Debug\multiply.exe
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\numberpass\bin\Debug\multiply.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\multiply\bin\Debug\multiply.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\multiply\obj\Debug\multiply.exe
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\multiply\obj\Debug\multiply.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\multiply\bin\Debug\multiply.exe
+C:\Users\Gabey\Google Drive\School_files\C#\numberpass\multiply\bin\Debug\multiply.pdb
