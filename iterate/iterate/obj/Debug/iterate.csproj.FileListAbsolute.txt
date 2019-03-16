@@ -1,0 +1,7 @@
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\bin\Debug\iterate.exe.config
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\bin\Debug\iterate.exe
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\bin\Debug\iterate.pdb
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\obj\Debug\iterate.csprojAssemblyReference.cache
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\obj\Debug\iterate.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\obj\Debug\iterate.exe
+C:\Users\Chad\Google Drive\School_files\C#\iterate\iterate\obj\Debug\iterate.pdb
