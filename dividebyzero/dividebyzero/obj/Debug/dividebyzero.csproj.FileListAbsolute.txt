@@ -1,0 +1,6 @@
+C:\Users\Gabey\Google Drive\School_files\C#\dividebyzero\dividebyzero\bin\Debug\dividebyzero.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\dividebyzero\dividebyzero\bin\Debug\dividebyzero.exe
+C:\Users\Gabey\Google Drive\School_files\C#\dividebyzero\dividebyzero\bin\Debug\dividebyzero.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\dividebyzero\dividebyzero\obj\Debug\dividebyzero.csprojResolveAssemblyReference.cache
+C:\Users\Gabey\Google Drive\School_files\C#\dividebyzero\dividebyzero\obj\Debug\dividebyzero.exe
+C:\Users\Gabey\Google Drive\School_files\C#\dividebyzero\dividebyzero\obj\Debug\dividebyzero.pdb
