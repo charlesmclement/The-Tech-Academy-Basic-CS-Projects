@@ -12,7 +12,9 @@ namespace half
         {
             number = (input / 2);
             Console.WriteLine("Half of " + input + " is " + number);
+
         }
+
         public static void Half(decimal input, out decimal number)
         {
             number = (input / 2m);
