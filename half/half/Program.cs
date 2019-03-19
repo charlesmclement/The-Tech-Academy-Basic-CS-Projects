@@ -10,26 +10,26 @@ namespace half
     {
         static void Main(string[] args)
         {
-            numTry:
             Console.WriteLine("Enter a number:");
             string input = Console.ReadLine();
             try
             {
-                decimal j = decimal.Parse(input);
                 int i = int.Parse(input);
-                if (i % 2 == 0)
-                {
-                    half.Half(i, out i);
-                }
-                else
-                {
+                if (i % 2 == 1) {
+                    decimal j = decimal.Parse(input);
                     half.Half(j, out j);
                 }
+                else {
+                    half.Half(i, out i);
+                }
+                
+                
             }
 
             catch
             {
-                goto numTry;
+                decimal i = decimal.Parse(input);
+                half.Half(i, out i);
             }
 
             Console.ReadLine();
