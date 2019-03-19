@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace half
 {
-    class half
+    static class half
     {
         public static void Half(int input,out int number)
         {
