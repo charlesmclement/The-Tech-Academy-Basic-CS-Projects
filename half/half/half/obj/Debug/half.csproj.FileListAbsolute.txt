@@ -1,0 +1,6 @@
+C:\Users\Gabey\Google Drive\School_files\C#\half\half\bin\Debug\half.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\half\half\bin\Debug\half.exe
+C:\Users\Gabey\Google Drive\School_files\C#\half\half\bin\Debug\half.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\half\half\obj\Debug\half.exe
+C:\Users\Gabey\Google Drive\School_files\C#\half\half\obj\Debug\half.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\half\half\obj\Debug\half.csprojResolveAssemblyReference.cache
