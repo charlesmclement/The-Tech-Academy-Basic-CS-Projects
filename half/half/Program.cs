@@ -23,7 +23,7 @@ namespace half
                 else 
                 {
                     half.Half(i, out i);
-            }
+                }
 
             catch
             {
