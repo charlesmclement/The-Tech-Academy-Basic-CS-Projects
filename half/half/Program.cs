@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,19 +10,28 @@ namespace half
     {
         static void Main(string[] args)
         {
-            decTry:
+            numTry:
             Console.WriteLine("Enter a number:");
             string input = Console.ReadLine();
-
             try
             {
-                decimal i = decimal.Parse(input);
-                half.Half(i, out i);
+                decimal j = decimal.Parse(input);
+                int i = int.Parse(input);
+                if (i % 2 == 0)
+                {
+                    half.Half(i, out i);
+                }
+                else
+                {
+                    half.Half(j, out j);
+                }
             }
+
             catch
             {
-                goto decTry;
+                goto numTry;
             }
+
             Console.ReadLine();
             
         }
