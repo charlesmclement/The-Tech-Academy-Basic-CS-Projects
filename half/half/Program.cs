@@ -15,15 +15,15 @@ namespace half
             try
             {
                 int i = int.Parse(input);
-                if (i % 2 == 1) {
+                if (i % 2 == 1) 
+                {
                     decimal j = decimal.Parse(input);
                     half.Half(j, out j);
                 }
-                else {
+                else 
+                {
                     half.Half(i, out i);
-                }
-                
-                
+                {
             }
 
             catch
@@ -31,9 +31,7 @@ namespace half
                 decimal i = decimal.Parse(input);
                 half.Half(i, out i);
             }
-
-            Console.ReadLine();
-            
-        }
+            Console.ReadLine()
+       }
     }
 }
