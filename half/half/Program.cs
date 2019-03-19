@@ -10,9 +10,10 @@ namespace half
     {
         static void Main(string[] args)
         {
+            decTry:
             Console.WriteLine("Enter a number:");
             string input = Console.ReadLine();
-            decTry:
+
             try
             {
                 decimal i = decimal.Parse(input);
