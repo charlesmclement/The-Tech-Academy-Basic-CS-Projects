@@ -24,13 +24,14 @@ namespace half
                 {
                     half.Half(i, out i);
                 }
+            }
 
             catch
             {
                 decimal i = decimal.Parse(input);
                 half.Half(i, out i);
             }
-            Console.ReadLine()
+            Console.ReadLine();
        }
     }
 }
