@@ -1,0 +1,6 @@
+C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\bin\Debug\sampleStudent.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\obj\Debug\sampleStudent.csprojResolveAssemblyReference.cache
+C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\bin\Debug\sampleStudent.exe
+C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\bin\Debug\sampleStudent.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\obj\Debug\sampleStudent.exe
+C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\obj\Debug\sampleStudent.pdb
