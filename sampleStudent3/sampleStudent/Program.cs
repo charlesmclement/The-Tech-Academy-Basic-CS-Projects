@@ -16,7 +16,7 @@ namespace sampleStudent
                 "Comparing " + sampleStudent.FirstName + " " + sampleStudent.LastName + 
                 " to " + sampleStudent2.FirstName + " " + sampleStudent2.LastName);
             bool compareStudents = sampleStudent == sampleStudent2;
-            if (compareStudents == true)
+            if (compareStudents)
             {
                 Console.WriteLine("Match");
             }
