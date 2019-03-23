@@ -19,5 +19,34 @@ namespace sampleStudent
             Console.WriteLine(FirstName + " " + LastName + " has quit.");
             Console.ReadLine();
         }
+        public static bool operator== (Employee employee, Employee employee2)
+        {
+            bool results;
+            if (employee.Id == employee2.Id)
+            {
+                results = true;
+                return results;
+            }
+            else
+            {
+                results = false;
+                return results;
+            }
+
+        }
+        public static bool operator!= (Employee employee, Employee employee2)
+        {
+            bool results;
+            if (employee.Id != employee2.Id)
+            {
+                results = true;
+                return results;
+            }
+            else
+            {
+                results = false;
+                return results;
+            }
+        }
     }
 }

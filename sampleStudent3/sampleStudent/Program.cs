@@ -10,9 +10,22 @@ namespace sampleStudent
     {
         static void Main(string[] args)
         { 
-            IQuittable sampleStudent = new Employee() { FirstName = "Sample", LastName = "Student", Id = 0 };
-            IQuittable sampleStudent2 = new Employee() { FirstName = "Sample", LastName = "Student", Id = 0 };
+            Employee sampleStudent = new Employee() { FirstName = "Sample", LastName = "Student", Id = 0 };
+            Employee sampleStudent2 = new Employee() { FirstName = "Sample", LastName = "Student", Id = 0 };
+            Console.WriteLine(
+                "Comparing " + sampleStudent.FirstName + " " + sampleStudent.LastName + 
+                " to " + sampleStudent2.FirstName + " " + sampleStudent2.LastName);
+            bool compareStudents = sampleStudent == sampleStudent2;
+            if (compareStudents == true)
+            {
+                Console.WriteLine("Match");
+            }
+            else
+            {
+                Console.WriteLine("No Match");
+            }
             sampleStudent.Quit();
+
         }
     }
 }
