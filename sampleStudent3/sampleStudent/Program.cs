@@ -10,7 +10,8 @@ namespace sampleStudent
     {
         static void Main(string[] args)
         { 
-            IQuittable sampleStudent = new Employee() { FirstName = "Sample", LastName = "Student" };
+            IQuittable sampleStudent = new Employee() { FirstName = "Sample", LastName = "Student", Id = 0 };
+            IQuittable sampleStudent2 = new Employee() { FirstName = "Sample", LastName = "Student", Id = 0 };
             sampleStudent.Quit();
         }
     }
