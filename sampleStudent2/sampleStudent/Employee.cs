@@ -9,7 +9,7 @@ namespace sampleStudent
     class Employee : Person
     {
         public int Id { get; set; }
-        public void SayName()
+        public override void SayName()
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
             Console.ReadLine();

@@ -4,3 +4,6 @@ C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\bin\Debu
 C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\bin\Debug\sampleStudent.pdb
 C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\obj\Debug\sampleStudent.exe
 C:\Users\Gabey\Google Drive\School_files\C#\sampleStudent\sampleStudent\obj\Debug\sampleStudent.pdb
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\sampleStudent3\sampleStudent\bin\Debug\sampleStudent.exe.config
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\sampleStudent3\sampleStudent\obj\Debug\sampleStudent.exe
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\sampleStudent3\sampleStudent\obj\Debug\sampleStudent.pdb
