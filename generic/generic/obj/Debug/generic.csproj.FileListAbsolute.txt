@@ -1,0 +1,7 @@
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\bin\Debug\generic.exe.config
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\bin\Debug\generic.exe
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\bin\Debug\generic.pdb
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\obj\Debug\generic.csprojAssemblyReference.cache
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\obj\Debug\generic.exe
+C:\Users\Chad\Google Drive\School_files\C#\generic\generic\obj\Debug\generic.pdb
