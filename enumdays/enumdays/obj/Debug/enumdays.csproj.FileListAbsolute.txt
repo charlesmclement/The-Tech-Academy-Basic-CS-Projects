@@ -1,0 +1,7 @@
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\obj\Debug\enumdays.csprojAssemblyReference.cache
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\obj\Debug\enumdays.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\bin\Debug\enumdays.exe.config
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\bin\Debug\enumdays.exe
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\bin\Debug\enumdays.pdb
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\obj\Debug\enumdays.exe
+C:\Users\Chad\Google Drive\School_files\C#\enumdays\enumdays\obj\Debug\enumdays.pdb
