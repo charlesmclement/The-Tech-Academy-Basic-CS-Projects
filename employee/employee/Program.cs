@@ -11,9 +11,6 @@ namespace employee
         static void Main(string[] args)
         {
             List<Employee> eList = new List<Employee>();
-            List<Employee> joesFE = new List<Employee>();
-
-
             eList.Add(new Employee { Id = 0, Fname = "Paul", Lname = "Denino" });
             eList.Add(new Employee { Id = 1, Fname = "Brent", Lname = "Kaskel" });
             eList.Add(new Employee { Id = 2, Fname = "Brandon", Lname = "Grosso" });
@@ -25,7 +22,8 @@ namespace employee
             eList.Add(new Employee { Id = 8, Fname = "El", Lname = "Luchador" });
             eList.Add(new Employee { Id = 9, Fname = "Carlos", Lname = "Clemente" });
 
-            Console.WriteLine("Joes list, for each:");
+            Console.WriteLine("Joes list, foreach:");
+            List<Employee> joesFE = new List<Employee>();
             foreach (Employee e in eList)
             {
                 if (e.Fname == "Joe")
@@ -37,8 +35,7 @@ namespace employee
 
             Console.WriteLine("\nJoes list, lamda:");
             List<Employee> joesLamda = eList.Where(x => x.Fname == "Joe").ToList();
-            foreach (Employee e in joesLamda) { Console.WriteLine(e.Id + " " + e.Fname + " " + e.Lname);}
-
+            foreach (Employee e in joesLamda) { Console.WriteLine(e.Id + " " + e.Fname + " " + e.Lname); }
 
             Console.WriteLine("\nEmployees with an Id greater than 5:");
             List<Employee> list5 = eList.Where(x => x.Id >= 5).ToList();
