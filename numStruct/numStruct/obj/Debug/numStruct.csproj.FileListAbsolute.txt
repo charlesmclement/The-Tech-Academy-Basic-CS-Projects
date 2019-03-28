@@ -1,0 +1,6 @@
+C:\Users\Gabey\Google Drive\School_files\C#\numStruct\numStruct\bin\Debug\numStruct.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\numStruct\numStruct\bin\Debug\numStruct.exe
+C:\Users\Gabey\Google Drive\School_files\C#\numStruct\numStruct\bin\Debug\numStruct.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\numStruct\numStruct\obj\Debug\numStruct.csprojResolveAssemblyReference.cache
+C:\Users\Gabey\Google Drive\School_files\C#\numStruct\numStruct\obj\Debug\numStruct.exe
+C:\Users\Gabey\Google Drive\School_files\C#\numStruct\numStruct\obj\Debug\numStruct.pdb
