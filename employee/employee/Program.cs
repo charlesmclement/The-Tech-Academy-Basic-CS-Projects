@@ -41,7 +41,7 @@ namespace employee
 
 
             Console.WriteLine("\nEmployees with an Id greater than 5:");
-            List<Employee> list5 = eList.Where(x => x.Id >= 4).ToList();
+            List<Employee> list5 = eList.Where(x => x.Id >= 5).ToList();
             foreach (Employee e in list5) { Console.WriteLine(e.Id + " " + e.Fname + " " + e.Lname); }
 
             Console.ReadLine();
