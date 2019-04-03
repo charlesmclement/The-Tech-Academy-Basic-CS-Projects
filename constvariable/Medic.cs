@@ -11,6 +11,8 @@ namespace constvariable
     {
         public const string Job = "Medic";
         public const int Rank = 2;
+        public Dictionary<int, string> Bandages { get; set; }
+        public Dictionary<int, string> Pills { get; set; }
 
         public Medic(string Id, string Name, string Job) : base(Id, Name, Job)
         {
