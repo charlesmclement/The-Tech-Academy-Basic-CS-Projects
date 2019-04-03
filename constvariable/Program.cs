@@ -52,19 +52,10 @@ namespace constvariable
             anotherOne:
             Console.WriteLine("\nMake another? y/n");
             quit = Console.ReadLine().ToLower();
-            if (quit == "yes" || quit == "y")
-            {
-                goto creation;
-            }
-            else if (quit == "no" || quit == "n")
-            {
-                Environment.Exit(0);
-            }
-            else
-            {
-                goto anotherOne;
-            }
 
+            if (quit == "yes" || quit == "y") goto creation;
+            else if (quit == "no" || quit == "n") Environment.Exit(0);
+            else goto anotherOne;
 
             Console.ReadLine();
         }
