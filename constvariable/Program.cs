@@ -15,7 +15,7 @@ namespace constvariable
             string output = File.ReadAllText(@"title.txt");
             Console.WriteLine(output);
             creation:
-            Console.Write("Create a person.\nEnter a name:");
+            Console.Write("\nCreate a person.\nEnter a name:");
             string username = Console.ReadLine();
             string userid = "";
             string guild = "";
