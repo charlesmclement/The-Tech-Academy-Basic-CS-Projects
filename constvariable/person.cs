@@ -16,10 +16,11 @@ namespace constvariable
         {
             this.Id = Id;
             this.Name = Name;
+            this.Job = Job;
         }
         public virtual void Talk()
         {
-            Console.WriteLine("{0} says, 'Hello there I am a person.'",Name);
+            Console.WriteLine("{0} says, 'Hello, what do I do?'", Name);
         }
     }
 }

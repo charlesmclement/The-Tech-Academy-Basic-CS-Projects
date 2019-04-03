@@ -16,7 +16,7 @@ namespace constvariable
         }
         public override void Talk()
         {
-            Console.WriteLine("{0} says, 'Hello there I am a person and a soldier.'", Name);
+            Console.WriteLine("{0} the {1} says, 'Hello, I am looking for someone.'",Name, Job);
         }
 
     }

@@ -17,7 +17,7 @@ namespace constvariable
         }
         public override void Talk()
         {
-            Console.WriteLine("{0} says, 'Hello there I am a person and a medic.'", Name);
+            Console.WriteLine("{0} the {1} says, 'Hello, may I offer you some pills?'", Name, Job);
         }
     }
 }
