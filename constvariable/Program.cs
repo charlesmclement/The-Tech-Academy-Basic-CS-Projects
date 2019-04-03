@@ -50,7 +50,7 @@ namespace constvariable
                 person.Talk();
             }
             anotherOne:
-            Console.WriteLine("\nMake another? y/n");
+            Console.Write("\nMake another? y/n ");
             anotherOne = Console.ReadLine().ToLower();
 
             if (anotherOne == "yes" || anotherOne == "y") goto creation;
