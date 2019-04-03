@@ -10,6 +10,7 @@ namespace constvariable
     class Medic : Person
     {
         public const string Job = "Medic";
+        public const int Rank = 2;
 
         public Medic(string Id, string Name, string Job) : base(Id, Name, Job)
         {
