@@ -20,7 +20,7 @@ namespace constvariable
             string userid = "";
             string guild = "";
             string anotherOne = "";
-
+            //Guild selection
             Console.WriteLine("Would you like to be a medic or soldier? \n(type soldier or medic, optional)");
             guild = Console.ReadLine().ToLower();
             switch (guild)
