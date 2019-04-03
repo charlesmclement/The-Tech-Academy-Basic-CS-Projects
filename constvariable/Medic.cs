@@ -10,7 +10,7 @@ namespace constvariable
     class Medic : Person
     {
         public const string Job = "Medic";
-        public const int Rank = 2;
+        public int Rank = 2;
         public Dictionary<int, string> Bandages { get; set; }
         public Dictionary<int, string> Pills { get; set; }
 
