@@ -19,7 +19,7 @@ namespace constvariable
             string username = Console.ReadLine();
             string userid = Guid.NewGuid().ToString();
             string guild = "";
-            string quit = "no";
+            string anotherOne = "";
 
             Console.WriteLine("Would you like to be a medic or soldier? \n(type soldier or medic, optional)");
             guild = Console.ReadLine().ToLower();
@@ -51,10 +51,10 @@ namespace constvariable
             }
             anotherOne:
             Console.WriteLine("\nMake another? y/n");
-            quit = Console.ReadLine().ToLower();
+            anotherOne = Console.ReadLine().ToLower();
 
-            if (quit == "yes" || quit == "y") goto creation;
-            else if (quit == "no" || quit == "n") Environment.Exit(0);
+            if (anotherOne == "yes" || anotherOne == "y") goto creation;
+            else if (anotherOne == "no" || anotherOne == "n") Environment.Exit(0);
             else goto anotherOne;
 
             Console.ReadLine();
