@@ -17,7 +17,7 @@ namespace constvariable
             creation:
             Console.Write("Create a person.\nEnter a name:");
             string username = Console.ReadLine();
-            string userid = Guid.NewGuid().ToString();
+            string userid = "";
             string guild = "";
             string anotherOne = "";
 
