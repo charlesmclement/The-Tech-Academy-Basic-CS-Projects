@@ -1,0 +1,7 @@
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\bin\Debug\constvariable.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\obj\Debug\constvariable.csprojResolveAssemblyReference.cache
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\bin\Debug\constvariable.exe
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\bin\Debug\constvariable.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\obj\Debug\constvariable.exe
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\obj\Debug\constvariable.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\constvariable\bin\Debug\title.txt
