@@ -29,13 +29,13 @@ namespace constvariable
                     case "medic":
                         Console.WriteLine("You chose Medic!\n");
                         userid = Guid.NewGuid().ToString();
-                        Medic medic = new Medic(userid, username, Medic.MJob);
+                        Medic medic = new Medic(userid, username, Medic.Job);
                         People.Add(medic);
                         break;
                     case "soldier":
                         Console.WriteLine("You chose Soldier!\n");
                         userid = Guid.NewGuid().ToString();
-                        Soldier soldier = new Soldier(userid, username, Soldier.SJob);
+                        Soldier soldier = new Soldier(userid, username, Soldier.Job);
                         People.Add(soldier);
                         break;
                     default:
