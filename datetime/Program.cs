@@ -12,11 +12,11 @@ namespace datetime
         {
             double input;
             input:
-            Console.WriteLine("It is now: " + DateTime.Now + "\nEnter a number: ");
+            Console.WriteLine("It is now: {0} \nEnter a number: ", DateTime.Now);
             try
             {
                 input = double.Parse(Console.ReadLine());
-                Console.WriteLine("It will be " + DateTime.Now.AddHours(input) + " {0} hours from now", input);
+                Console.WriteLine("It will be {0} in {1} hours.", DateTime.Now.AddHours(input), input);
                 Console.ReadLine();
             }
             catch { goto input; }
