@@ -51,7 +51,7 @@ namespace constvariable
                     person.Talk();
                 }
                 Console.WriteLine("\nMake another?");
-                quit = Console.ReadLine();
+                quit = Console.ReadLine().ToLower();
                 if (quit == "yes" || quit == "y")
                 {
                     goto creation;
