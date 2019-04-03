@@ -9,7 +9,7 @@ namespace constvariable
 {
     class Medic : Person
     {
-        public const string MJob = "Medic";
+        public const string Job = "Medic";
 
         public Medic(string Id, string Name, string Job) : base(Id, Name, Job)
         {
