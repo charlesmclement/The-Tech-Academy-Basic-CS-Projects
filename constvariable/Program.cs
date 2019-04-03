@@ -20,8 +20,7 @@ namespace constvariable
             string userid = Guid.NewGuid().ToString();
             string guild = "";
             string quit = "no";
-            while (quit == "no")
-            {
+
                 Console.WriteLine("Would you like to be a medic or soldier? \n(type soldier or medic, optional)");
                 guild = Console.ReadLine().ToLower();
                 switch (guild)
@@ -65,7 +64,7 @@ namespace constvariable
                 {
                     goto anotherOne;
                 }
-            }
+            
 
             Console.ReadLine();
         }
