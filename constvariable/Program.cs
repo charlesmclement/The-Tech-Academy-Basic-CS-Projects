@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +25,7 @@ namespace constvariable
             string quit = "no";
             while (quit == "no")
             {
-                Console.WriteLine("Would you like to be a medic or soldier?");
+                Console.WriteLine("Would you like to be a medic or soldier? \n(type soldier or medic, optional)");
                 guild = Console.ReadLine().ToLower();
                 switch (guild)
                 {
@@ -40,6 +40,12 @@ namespace constvariable
                         userid = Guid.NewGuid().ToString();
                         Soldier soldier = new Soldier(userid, username, Soldier.SJob);
                         People.Add(soldier);
+                        break;
+                    default:
+                        Console.WriteLine("You're just an average person.\n");
+                        userid = Guid.NewGuid().ToString();
+                        Person person = new Person(userid, username, "none");
+                        People.Add(person);
                         break;
                 }
                 foreach (Person person in People)
