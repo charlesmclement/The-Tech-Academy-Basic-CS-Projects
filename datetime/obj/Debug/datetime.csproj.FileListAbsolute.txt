@@ -1,0 +1,5 @@
+C:\Users\Gabey\Google Drive\School_files\C#\datetime\bin\Debug\datetime.exe.config
+C:\Users\Gabey\Google Drive\School_files\C#\datetime\bin\Debug\datetime.exe
+C:\Users\Gabey\Google Drive\School_files\C#\datetime\bin\Debug\datetime.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\datetime\obj\Debug\datetime.exe
+C:\Users\Gabey\Google Drive\School_files\C#\datetime\obj\Debug\datetime.pdb
