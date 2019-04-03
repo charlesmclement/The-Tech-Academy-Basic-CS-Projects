@@ -15,10 +15,7 @@ namespace constvariable
             string output = File.ReadAllText(@"title.txt");
             Console.WriteLine(output);
             creation:
-
             Console.WriteLine("Create a person.\nEnter a name:");
-
-            
             string username = Console.ReadLine();
             string userid = Guid.NewGuid().ToString();
             string guild = "";
@@ -64,7 +61,7 @@ namespace constvariable
                     Environment.Exit(0);
                 }
             }
-            
+
             Console.ReadLine();
         }
     }
