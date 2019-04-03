@@ -47,18 +47,23 @@ namespace constvariable
                 }
                 foreach (Person person in People)
                 {
-                    Console.WriteLine("{0}: {1}", person.Id, person.Name);
+                    Console.WriteLine("{0}: {1}", person.Name, person.Id);
                     person.Talk();
                 }
-                Console.WriteLine("\nMake another?");
+                anotherOne:
+                Console.WriteLine("\nMake another? y/n");
                 quit = Console.ReadLine().ToLower();
                 if (quit == "yes" || quit == "y")
                 {
                     goto creation;
                 }
-                else
+                else if (quit == "no" || quit == "n")
                 {
                     Environment.Exit(0);
+                }
+                else
+                {
+                    goto anotherOne;
                 }
             }
 

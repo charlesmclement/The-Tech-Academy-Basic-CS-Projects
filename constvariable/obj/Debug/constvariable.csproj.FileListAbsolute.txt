@@ -5,3 +5,10 @@ C:\Users\Gabey\Google Drive\School_files\C#\constvariable\bin\Debug\constvariabl
 C:\Users\Gabey\Google Drive\School_files\C#\constvariable\obj\Debug\constvariable.exe
 C:\Users\Gabey\Google Drive\School_files\C#\constvariable\obj\Debug\constvariable.pdb
 C:\Users\Gabey\Google Drive\School_files\C#\constvariable\bin\Debug\title.txt
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\bin\Debug\title.txt
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\bin\Debug\constvariable.exe.config
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\bin\Debug\constvariable.exe
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\bin\Debug\constvariable.pdb
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\obj\Debug\constvariable.csprojResolveAssemblyReference.cache
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\obj\Debug\constvariable.exe
+C:\Users\Gabey\Documents\GitHub\The-Tech-Academy-Basic-CS-Projects\constvariable\obj\Debug\constvariable.pdb
