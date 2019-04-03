@@ -11,8 +11,8 @@ namespace datetime
         static void Main(string[] args)
         {
             double input;
-            DateTime Now = DateTime.Now;
             input:
+            DateTime Now = DateTime.Now;
             Console.WriteLine("It is now: {0} \nEnter a number: ", Now);
             try
             {
