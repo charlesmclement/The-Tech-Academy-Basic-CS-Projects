@@ -14,7 +14,7 @@ namespace constvariable
         public Dictionary<int, string> Bandages { get; set; }
         public Dictionary<int, string> Pills { get; set; }
 
-        public Medic(string Id, string Name, string Job) : base(Id, Name, Job)
+        public Medic(Guid Id, string Name, string Job) : base(Id, Name, Job)
         {
         }
         public override void Talk()

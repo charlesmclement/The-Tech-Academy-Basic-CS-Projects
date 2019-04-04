@@ -12,7 +12,7 @@ namespace constvariable
         public int Rank = 2;
         public Dictionary<int, string> Ammo { get; set; }
 
-        public Soldier(string Id, string Name, string Job) : base(Id, Name, Job)
+        public Soldier(Guid Id, string Name, string Job) : base(Id, Name, Job)
         {
         }
         public override void Talk()

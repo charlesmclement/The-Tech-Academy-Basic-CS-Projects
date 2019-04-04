@@ -17,7 +17,7 @@ namespace constvariable
             creation:
             Console.Write("\nCreate a person.\nEnter a name:");
             string username = Console.ReadLine();
-            string userid = "";
+            Guid userid = new Guid();
             string guild = "";
             string anotherOne = "";
             //Guild selection
@@ -27,19 +27,19 @@ namespace constvariable
             {
                 case "medic":
                     Console.WriteLine("You chose Medic!\n");
-                    userid = Guid.NewGuid().ToString();
+                    userid = Guid.NewGuid();
                     Medic medic = new Medic(userid, username, Medic.Job);
                     People.Add(medic);
                     break;
                 case "soldier":
                     Console.WriteLine("You chose Soldier!\n");
-                    userid = Guid.NewGuid().ToString();
+                    userid = Guid.NewGuid();
                     Soldier soldier = new Soldier(userid, username, Soldier.Job);
                     People.Add(soldier);
                     break;
                 default:
                     Console.WriteLine("You're just an average person.\n");
-                    userid = Guid.NewGuid().ToString();
+                    userid = Guid.NewGuid();
                     Person person = new Person(userid, username, "none");
                     People.Add(person);
                     break;
