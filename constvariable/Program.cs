@@ -57,7 +57,6 @@ namespace constvariable
             else if (anotherOne == "no" || anotherOne == "n") Environment.Exit(0);
             else goto anotherOne;
 
-            Console.ReadLine();
         }
     }
 }
