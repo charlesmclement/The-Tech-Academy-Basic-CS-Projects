@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,7 @@ namespace age
     {
         static void Main(string[] args)
         {
+            string byteMsg = "Use whole numbers between 0 and 255";
             byte age = 0;
             age:
             Console.WriteLine("Enter your age:");
@@ -19,23 +20,22 @@ namespace age
             }
             catch (OverflowException)
             {
-                Console.WriteLine("Use whole numbers between 0 and 255");
+                Console.WriteLine(byteMsg);
                 goto age;
             }
             catch (FormatException)
             {
-                Console.WriteLine("Use whole numbers between 0 and 255");
+                Console.WriteLine(byteMsg);
                 goto age;
             }
             catch
             {
-                Console.WriteLine("Use whole numbers between 0 and 255");
+                Console.WriteLine(byteMsg);
                 goto age;
             }
             int currentAge = Convert.ToInt32(age);
             int birthYear = (2019 - age);
-            Console.Write("You were born in: ");
-            Console.WriteLine(birthYear);
+            Console.WriteLine("You were born in: " + birthYear);
             Console.ReadLine();
 
         }
