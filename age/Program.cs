@@ -27,6 +27,11 @@ namespace age
                 Console.WriteLine("Use whole numbers between 0 and 255");
                 goto age;
             }
+            catch
+            {
+                Console.WriteLine("Use whole numbers between 0 and 255");
+                goto age;
+            }
             int currentAge = Convert.ToInt32(age);
             int birthYear = (2019 - age);
             Console.Write("You were born in: ");
