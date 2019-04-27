@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Auto Insurance Home Page";
+}
+
+<div class="jumbotron shadow col-8 text-center mx-auto">
+    <h1>Auto Insurance</h1>
+    You are in good hands with our quality policies. Get your quote below.<hr />
+    
+    <a href="#SignUp" class="btn btn-primary btn-lg mt-3">Get a quote <img src="~/Content/tesla.gif" width="40" /></a>
+    <br />
+    <strong><a href="~/Home/Admin">🛡️ Admin Panel</a></strong>
+
+</div>
+<br />
+
+<div class="row no-gutters">
+    <div class="card col-auto mx-auto shadow">
+        <div class="card-header text-center" id="SignUp">
+            <h5 class="m-0">Get your quote</h5>
+        </div>
+        <div class="card-body col-auto">
+            @using (Html.BeginForm("SignUp", "Home", FormMethod.Post))
+            {
+                <div class="form-group mx-auto col-auto ">
+                    <label class="font-weight-bold">&nbsp; First Name:</label>
+                    <input name="FirstName" type="text" class="form-control" />
+
+                    <label class="font-weight-bold">&nbsp; Last Name:</label>
+                    <input name="LastName" type="text" class="form-control" />
+
+                    <label class="font-weight-bold">&nbsp; Date of Birth:</label>
+                    <input name="DateOfBirth" type="date" class="form-control" />
+
+
+                    <label class="font-weight-bold">&nbsp; Email Address:</label>
+                    <input name="EmailAddress" type="email" class="form-control" />
+
+                    <label class="font-weight-bold">&nbsp; Vehicle:</label><br />
+                    <input name="CarYear" type="number" class="form-control" placeholder="Year" min="1980" max="2019" />
+                    <input name="CarMake" type="text" class="form-control" placeholder="Make" />
+                    <input name="CarModel" type="text" class="form-control" placeholder="Model" />
+
+                    <label class="font-weight-bold">&nbsp; Speeding tickets received</label>
+                    <input name="Tickets" type="number" class="form-control" width="20" min="0" />
+
+                    <br />
+                    <label>&nbsp;Would you like Full Coverage?</label>
+                    @Html.CheckBox("FullCoverage", false)
+                    <br />
+
+                    <label>&nbsp;Have you ever had a DUI?</label>
+                    @Html.CheckBox("Dui", false)
+                    <br /><br />
+                    <button type="submit" class="btn btn-primary btn-block">Submit <img src="~/Content/tesla.gif" width="20" /></button>
+
+                </div>
+            }
+        </div>
+
+    </div>
+</div>

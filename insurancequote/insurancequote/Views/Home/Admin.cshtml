@@ -1,0 +1,64 @@
+﻿@using insurancequote.Models
+@model List<Quote>
+
+<div class="jumbotron shadow col-8 text-center mx-auto">
+    <h1>Auto Insurance
+    </h1>
+    <hr />
+    <h5>Admin Panel</h5>
+    <h5><a href="~/Home/Index">&#8592;Back</a></h5>
+</div>
+
+
+
+
+<div class="row no-gutters">
+    <div class="card col-12 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Insurance Quotes</h5>
+        </div>
+        <div class="card-body col-12">
+            @foreach (var quote in Model)
+            {
+            <div class="row">
+                <strong>
+                    @quote.FirstName
+                    @quote.LastName &nbsp;&nbsp;
+                </strong>
+                @quote.EmailAddress&nbsp;&nbsp;<br />
+
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>
+                        @quote.CarYear
+                        @quote.CarMake
+                        @quote.CarModel,<br />
+                        @quote.QuoteAmount / month
+                    </p>
+                </div>
+
+                <div class="col">
+
+                    <p>
+                        Full Coverage: @quote.FullCoverage<br />
+                        Dui: @quote.Dui<br />
+                        Tickets: @quote.Tickets
+                    </p>
+
+                </div>
+            </div>
+            <div class="row">
+            Quote requested:
+            @quote.QuoteDate.Month/@quote.QuoteDate.Day/@quote.QuoteDate.Year<hr /></div>
+
+           
+
+
+                <hr />
+            }
+
+            <h5><a href="~/Home/Index">&#8592;Back</a></h5>
+        </div>
+    </div>
+</div>
