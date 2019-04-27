@@ -20,7 +20,7 @@ namespace codefirst.Models
     }
     public enum Gender
     {
-        Male, Female, Other
+        Male, Female, Neutral
     }
     public enum Job
     {
