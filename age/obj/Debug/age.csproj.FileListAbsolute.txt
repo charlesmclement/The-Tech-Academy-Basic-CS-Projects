@@ -1,0 +1,6 @@
+c:\users\gabey\Documents\VS_Projects\age\bin\Debug\age.exe.config
+c:\users\gabey\Documents\VS_Projects\age\bin\Debug\age.exe
+c:\users\gabey\Documents\VS_Projects\age\bin\Debug\age.pdb
+c:\users\gabey\Documents\VS_Projects\age\obj\Debug\age.csprojResolveAssemblyReference.cache
+c:\users\gabey\Documents\VS_Projects\age\obj\Debug\age.exe
+c:\users\gabey\Documents\VS_Projects\age\obj\Debug\age.pdb
