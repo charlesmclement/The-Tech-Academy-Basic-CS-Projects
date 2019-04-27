@@ -28,7 +28,7 @@ namespace codefirst.Models
     }
     public enum Race
     {
-        Human, Elf, Dwarf, HalfElf
+        Human, Elf, Dwarf, HalfElf, Mul
     }
 
 }
