@@ -20,7 +20,7 @@ namespace codefirst.Models
     }
     public enum Gender
     {
-        Male, Female, Other
+        Male, Female, Neutral
     }
     public enum Job
     {
@@ -28,7 +28,7 @@ namespace codefirst.Models
     }
     public enum Race
     {
-        Human, Elf, Dwarf, HalfElf
+        Human, Elf, Dwarf, HalfElf, Mul
     }
 
 }
