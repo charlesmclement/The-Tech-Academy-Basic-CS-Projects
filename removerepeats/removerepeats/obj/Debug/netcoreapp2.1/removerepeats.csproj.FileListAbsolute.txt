@@ -1,0 +1,10 @@
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\bin\Debug\netcoreapp2.1\removerepeats.deps.json
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\bin\Debug\netcoreapp2.1\removerepeats.runtimeconfig.json
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\bin\Debug\netcoreapp2.1\removerepeats.runtimeconfig.dev.json
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\bin\Debug\netcoreapp2.1\removerepeats.dll
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\bin\Debug\netcoreapp2.1\removerepeats.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\obj\Debug\netcoreapp2.1\removerepeats.csproj.CoreCompileInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\obj\Debug\netcoreapp2.1\removerepeats.AssemblyInfoInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\obj\Debug\netcoreapp2.1\removerepeats.AssemblyInfo.cs
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\obj\Debug\netcoreapp2.1\removerepeats.dll
+C:\Users\Gabey\Google Drive\School_files\C#\removerepeats\removerepeats\obj\Debug\netcoreapp2.1\removerepeats.pdb
