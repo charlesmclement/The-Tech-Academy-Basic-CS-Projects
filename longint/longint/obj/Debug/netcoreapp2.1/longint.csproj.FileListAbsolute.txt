@@ -1,0 +1,10 @@
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\bin\Debug\netcoreapp2.1\longint.deps.json
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\bin\Debug\netcoreapp2.1\longint.runtimeconfig.json
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\bin\Debug\netcoreapp2.1\longint.runtimeconfig.dev.json
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\bin\Debug\netcoreapp2.1\longint.dll
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\bin\Debug\netcoreapp2.1\longint.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\obj\Debug\netcoreapp2.1\longint.csproj.CoreCompileInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\obj\Debug\netcoreapp2.1\longint.AssemblyInfoInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\obj\Debug\netcoreapp2.1\longint.AssemblyInfo.cs
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\obj\Debug\netcoreapp2.1\longint.dll
+C:\Users\Gabey\Google Drive\School_files\C#\longint\longint\obj\Debug\netcoreapp2.1\longint.pdb
