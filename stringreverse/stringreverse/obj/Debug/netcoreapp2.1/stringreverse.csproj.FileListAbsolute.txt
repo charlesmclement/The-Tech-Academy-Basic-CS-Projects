@@ -1,0 +1,11 @@
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\obj\Debug\netcoreapp2.1\stringreverse.csprojAssemblyReference.cache
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\obj\Debug\netcoreapp2.1\stringreverse.csproj.CoreCompileInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\obj\Debug\netcoreapp2.1\stringreverse.AssemblyInfoInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\obj\Debug\netcoreapp2.1\stringreverse.AssemblyInfo.cs
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\bin\Debug\netcoreapp2.1\stringreverse.deps.json
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\bin\Debug\netcoreapp2.1\stringreverse.runtimeconfig.json
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\bin\Debug\netcoreapp2.1\stringreverse.runtimeconfig.dev.json
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\bin\Debug\netcoreapp2.1\stringreverse.dll
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\bin\Debug\netcoreapp2.1\stringreverse.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\obj\Debug\netcoreapp2.1\stringreverse.dll
+C:\Users\Gabey\Google Drive\School_files\C#\stringreverse\stringreverse\obj\Debug\netcoreapp2.1\stringreverse.pdb
