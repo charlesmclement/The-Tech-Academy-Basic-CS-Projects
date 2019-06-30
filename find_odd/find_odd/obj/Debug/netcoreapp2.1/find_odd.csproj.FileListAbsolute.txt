@@ -1,0 +1,10 @@
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\bin\Debug\netcoreapp2.1\find_odd.deps.json
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\bin\Debug\netcoreapp2.1\find_odd.runtimeconfig.json
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\bin\Debug\netcoreapp2.1\find_odd.runtimeconfig.dev.json
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\bin\Debug\netcoreapp2.1\find_odd.dll
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\bin\Debug\netcoreapp2.1\find_odd.pdb
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\obj\Debug\netcoreapp2.1\find_odd.csproj.CoreCompileInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\obj\Debug\netcoreapp2.1\find_odd.AssemblyInfoInputs.cache
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\obj\Debug\netcoreapp2.1\find_odd.AssemblyInfo.cs
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\obj\Debug\netcoreapp2.1\find_odd.dll
+C:\Users\Gabey\Google Drive\School_files\C#\find_odd\find_odd\obj\Debug\netcoreapp2.1\find_odd.pdb
